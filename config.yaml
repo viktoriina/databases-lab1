@@ -1,0 +1,7 @@
+blocks_file: "./data/blocks"
+blocks_index_file: "./data/blocks_index"
+blocks_index_sort_period: "3s"
+
+transactions_file: "./data/transactions"
+transactions_index_file: "./data/transactions_index"
+transactions_index_sort_period: "3s"
